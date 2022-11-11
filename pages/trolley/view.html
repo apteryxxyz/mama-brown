@@ -1,0 +1,33 @@
+<div id="trolley-container">
+    <div id="trolley-list">
+        <div id="trolley-add" class="trolley-item">
+            <a onclick="navigateTo({ screen: 'menu' })">
+                <img src="assets/icons/add.svg" />
+            </a>
+        </div>
+    </div>
+
+    <div id="trolley-panel">
+        <h3>Online Trolley</h3>
+
+        <p>Have a coupon?</p>
+        <div id="trolley-coupon">
+            <input type="text" id="coupon">
+            <a onclick="">Apply</a>
+        </div>
+        <hr />
+
+        <div id="trolley-prices">
+            <p>Pick Up Total: $0.00</p>
+            <p>Deliverly Fee: $0.00</p>
+            <P>Deliverly Total: $0.00</P>
+        </div>
+        <hr />
+
+        <div id="trolley-buttons">
+            <a onclick="navigateTo({ screen: 'checkout' }, undefined, () => setMethod('p'))">Pick Up</a>
+            &nbsp;
+            <a onclick="navigateTo({ screen: 'checkout' }, undefined, () => setMethod('d'))">Delivery</a>
+        </div>
+    </div>
+</div>

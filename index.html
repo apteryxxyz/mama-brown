@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Mama Brown</title>
+    <meta name="title" content="Mama Brown">
+    <meta property="og:title" content="Mama Brown">
+    <meta property="description"
+        content="Welcome to Mama Brown! We are a Wellington based, South of the Border restaurant, serving up hearty American food and the best milkshakes in town! Chicken & Waffles, BBQ Pork Ribs, Burgers, Fries, and much more! Go on, treat yourself!">
+    <meta property="og:description"
+        content="Welcome to Mama Brown! We are a Wellington based, South of the Border restaurant, serving up hearty American food and the best milkshakes in town! Chicken & Waffles, BBQ Pork Ribs, Burgers, Fries, and much more! Go on, treat yourself!">
+    <meta name="keywords"
+        content="breakfast restaurant wellington, brunch restaurant in wellington, Mexican food wellington, tacos wellington, free wifi wellington">
+    <link rel="icon" href="assets/favicon.ico" />
+
+
+    <script>
+        // Check that application is running on a server
+        const url = new URL(location);
+        if (url.protocol === 'file:') {
+            alert('Due to CORS, this application must be served from a server, rather than opened directly.');
+            document.getElementsByTagName('html')[0].style.display = 'none';
+        } else {
+            // Initialize global lists
+            window.components = window.components || new Map();
+            window.promises = window.promises || [];
+        }
+    </script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="styles/base.css" />
+    <link rel="stylesheet" href="styles/classes.css" />
+    <link rel="stylesheet" href="styles/global.css" />
+    <link rel="stylesheet" href="styles/variables.css" />
+
+    <!-- Scripts -->
+    <script src="scripts/builders.js"></script>
+    <script src="scripts/navigation.js"></script>
+    <script src="scripts/other.js"></script>
+
+    <!-- Components -->
+    <script src="components/slideshow/script.js"></script>
+    <script src="components/footer.js"></script>
+    <script src="components/header.js"></script>
+    <script src="components/navigation.js"></script>
+
+    <!-- Pages -->
+    <script src="pages/about.js"></script>
+    <script src="pages/bookings/script.js"></script>
+    <script src="pages/checkout/script.js"></script>
+    <script src="pages/deals/script.js"></script>
+    <script src="pages/home/script.js"></script>
+    <script src="pages/login/script.js"></script>
+    <script src="pages/menu/script.js"></script>
+    <script src="pages/trolley/script.js"></script>
+
+    <!-- External -->
+    <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap" rel="stylesheet">
+
+    <script type="text/javascript">
+        // Create an empty component
+        createComponent('Empty', { script: c => c ? c() : null, style: '', view: '' });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            let interval = setInterval(function () {
+                // Wait until all promises are resolved before attempting to render
+                if (window.promises.filter(p => p.isPending()).length === 0) {
+                    clearInterval(interval);
+
+                    // Insert the header bar, navigation bar and footer into the DOM
+                    insertComponent('Header', document.getElementById('root-header'));
+                    insertComponent('Navigation', document.getElementById('root-navigation'));
+                    insertComponent('Footer', document.getElementById('root-footer'));
+
+                    // Update DOM and storage stuff
+                    updateTrolley();
+                    updateAccount();
+
+                    // Render the page content depending on query in URL
+                    navigateTo({ screen: resolveScreen() }, true);
+                }
+            }, 100);
+        });
+    </script>
+</head>
+
+<body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root-header"></div>
+    <div id="root-between"></div>
+    <div id="root-navigation"></div>
+    <div id="root-page"></div>
+    <div id="root-footer"></div>
+</body>
+
+</html>

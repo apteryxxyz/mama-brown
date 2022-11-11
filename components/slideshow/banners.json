@@ -1,0 +1,17 @@
+[
+    {
+        "image": "assets/menu/cookie_waffle.png",
+        "text": "New Kit Kat Cheesecake",
+        "onclick": "navigateTo({ screen: 'menu' }, void 0, () => showMenu('desserts'))"
+    },
+    {
+        "image": "assets/banners/birthday.jpg",
+        "text": "Free Meal On Your Birthday",
+        "onclick": "navigateTo({ screen: 'deals' })"
+    },
+    {
+        "image": "assets/other/guess.jpg",
+        "text": "Guess The Milkshake And Win",
+        "onclick": "navigateTo({ screen: 'deals' })"
+    }
+]

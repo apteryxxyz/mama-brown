@@ -1,0 +1,125 @@
+#trolley-container {
+    display: flex;
+    flex-direction: row;
+    max-width: var(--max-width);
+    margin: 1vw auto;
+}
+
+#trolley-list {
+    width: 100%;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 1vw;
+    margin: 0 auto;
+}
+
+.trolley-item {
+    display: flex;
+    flex-direction: row;
+    height: 230px;
+
+    width: 100%;
+    border-radius: 30px;
+    background-color: var(--white);
+}
+
+.trolley-item-image {
+    height: 230px;
+    width: 55%;
+    border-radius: 30px 0 0 30px;
+}
+
+.trolley-item-content {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.trolley-item-content h3 {
+    font-weight: bold;
+}
+
+.trolley-item-buttons,
+.trolley-item-content a {
+    margin-top: auto;
+    margin-left: auto;
+}
+
+.trolley-item-content img {
+    height: 50px;
+}
+
+#trolley-add {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#trolley-add img {
+    height: 100px;
+}
+
+#trolley-panel {
+    height: max-content;
+    width: calc(var(--max-width) / 4);
+    padding: 10px;
+    border-radius: 30px;
+    background-color: var(--white);
+}
+
+@media screen and (max-width: 960px) {
+    #trolley-container {
+        flex-direction: column-reverse;
+    }
+
+    #trolley-panel {
+        width: 100%;
+    }
+}
+
+#trolley-panel h3 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+#trolley-coupon {
+    display: flex;
+    flex-direction: row;
+}
+
+#trolley-coupon input {
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: var(--grey);
+    margin-right: 0.5vw;
+}
+
+#trolley-coupon a {
+    padding: 10px;
+    border-radius: 30px;
+    color: var(--white);
+    background-color: var(--red);
+}
+
+#trolley-prices p {
+    font-weight: bold;
+}
+
+#trolley-buttons {
+    display: flex;
+}
+
+#trolley-buttons a {
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+    text-align: center;
+    color: var(--white);
+    background-color: var(--red);
+}

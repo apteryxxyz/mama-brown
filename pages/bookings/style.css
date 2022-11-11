@@ -1,0 +1,101 @@
+#bookings-container {
+    display: flex;
+    max-width: var(--max-width);
+    margin: 1vw auto;
+}
+
+#bookings-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.bookings-item {
+    margin: 5px;
+    height: 230px;
+    width: 200px;
+    border-radius: 30px;
+    background-color: var(--white);
+}
+
+.bookings-item-content {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.bookings-item-actions {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.bookings-item-actions a {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 30px;
+    color: var(--white);
+    background-color: var(--red);
+}
+
+#bookings-add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bookings-add img {
+    height: 100px;
+}
+
+#booking-manage {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    padding: 60px;
+    border-radius: 30px;
+    background-color: var(--white);
+
+    align-items: center;
+    justify-content: center;
+}
+
+#booking-manage h3 {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+#booking-manage a {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    color: var(--white);
+    background-color: var(--red);
+}
+
+#bookings-manage-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(auto-fit, minmax(40px, auto));
+    grid-gap: 1vw;
+}
+
+.bookings-manage-action input,
+.bookings-manage-action select {
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: var(--grey);
+    margin-right: 0.5vw;
+}
+
+#booking-error {
+    color: var(--red);
+    visibility: hidden;
+}

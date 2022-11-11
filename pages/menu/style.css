@@ -1,0 +1,76 @@
+#menu-selector {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: center;
+    background-color: #C4C4C4;
+}
+
+#menu-selector a {
+    display: flex;
+    margin-top: 10px;
+    padding: 0.4vw 0.8vw;
+    border-radius: 10px 10px 0 0;
+    color: black;
+    background-color: #DCDCDC;
+}
+
+#menu-selector .active {
+    background-color: #F6F6F6;
+}
+
+#menu-container {
+    display: grid;
+    max-width: var(--max-width);
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 1vw;
+    margin: 1vw auto;
+}
+
+.menu-item {
+    width: 100%;
+    background: var(--white);
+    border-radius: 30px;
+}
+
+.menu-item-image {
+    width: 100%;
+    height: 180px;
+    border-radius: 30px 30px 0px 0px;
+}
+
+.menu-item-content {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.menu-item-content h3 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.menu-item-content h3 span {
+    color: var(--red);
+}
+
+.menu-item-content p {
+    font-size: 0.8rem;
+    margin-top: 5px;
+}
+
+.menu-item-price {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.menu-item-price p {
+    font-size: 1rem;
+    align-self: center;
+}
+
+.menu-item-price a {
+    font-size: 0.8rem;
+    margin-left: auto;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "2for1mains",
+        "title": [
+            "2 for 1 Mains",
+            "Wednesday All Day"
+        ],
+        "subtitle": "Password for Apirl = \"WINNER\"",
+        "description": "2 for 1 Mains Wednesday. Available for Mains only, dine in & pick up order - this includes everything under the 'Mains' section on the menu. Mains DO NOT include burgers, snacks, breakfast items, specials, drinks etc. This deal is not to be redeemed with any other offer (i.e. you cannot use the 241 deal and the birthday deal at the same time). You must mention the password at the till when paying your bill in order to receive the discount. The deal applies to order pick ups as well, enter the password in the voucher code area to get your deal. The password changes every month, so be sure to follow us on Facebook and Instagram to keep up to date. This is an exclusive deal to reward our online followers, so if you don't mention the password, you don't get the deal! Offer available all day Wednesdays until further notice. Offer not available on Public Holidays/Stat Days.",
+        "image": "assets/banners/2for1mains.jpg"
+    },
+    {
+        "id": "student",
+        "title": [
+            "Uniform Deal",
+            "Thursday All Day"
+        ],
+        "description": "Student Deal Thursdays, any classic burger and regular fries for just $13. This deal is not to be redeemed with any other offer (i.e. you cannot use the student deal and the birthday deal at the same time). You need to show your valid student ID when paying. Deal available all day Thursdays until further notice. Offer does not include the gourmet burgers. Offer not available on Public Holidays/Stat Days.",
+        "image": "assets/banners/student.jpg"
+    },
+    {
+        "id": "uniform",
+        "title": [
+            "Uniform Deal",
+            "Friday All Day"
+        ],
+        "description": "Uniform Deal Thursdays, any classic burger and regular fries for just $13. Just show up in your work uniform to be eligible for the deal. This deal is not to be redeemed with any other offer (i.e. you cannot use the uniform deal and the birthday deal at the same time). Deal available all day Thursdays until further notice. Offer does not include the gourmet burgers. Offer not available on Public Holidays/Stat Days.",
+        "image": "assets/banners/uniform.jpg"
+    },
+    {
+        "id": "birthday",
+        "title": [
+            "Birthday Deal"
+        ],
+        "description": "Deal available on your birthday, or 5 days before/after your birthday. Come celebrate your birthday with Mama and your family or friends! Free meal and drink when you dine at Mama Brown with one or more paying diners who also orders a main and a drink. Don't forget to bring ID so Mama knows it's your birthday ;) *Not to be used with any other offer.",
+        "image": "assets/banners/birthday.jpg"
+    }
+]

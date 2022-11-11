@@ -1,0 +1,15 @@
+:root {
+    --common-width: 960px;
+    --max-width: 1480px;
+    --min-height: 100vh;
+
+    --black: #000000;
+    --red: #F14545;
+    --light-red: #F25858;
+    --green: #00C851;
+    --dark-grey: #333333;
+    --grey: #C4C4C4;
+    --light-grey: #DCDCDC;
+    --dark-white: #F6F6F6;
+    --white: #FFFFFF;
+}

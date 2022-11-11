@@ -1,0 +1,590 @@
+{
+    "breakfast": [
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        },
+        {
+            "name": "2 Stack Waffles",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/2_stack_waffles.jpg"
+        }
+    ],
+    "mains": [
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        },
+        {
+            "name": "Nachos",
+            "description": "Cheese corn chips, topped with beef chilli, grated cheese, guacamole, sour cream and salsa.",
+            "dietary": [
+                "GF"
+            ],
+            "price": 24.90,
+            "image": "assets/menu/nachos.jpg"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        },
+        {
+            "name": "Cookie Waffle",
+            "description": "A sweet waffle, served with two scoops of vanilla ice cream, crushed Oreos & chocolate sauce.",
+            "dietary": [
+                "V"
+            ],
+            "price": 14.90,
+            "image": "assets/menu/cookie_waffle.png"
+        }
+    ],
+    "kids": [
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        },
+        {
+            "name": "Waffle with Maple Syrup",
+            "description": "Mama Browns awesome waffles, made fresh each morning. Served with maple syrup.",
+            "dietary": [],
+            "price": 10.00,
+            "image": "assets/menu/waffle_with_maple_syrup.jpg"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "Vodka, Kahlua, Karamu Espresso with a hint of vanilla.",
+            "dietary": [],
+            "price": 14.90,
+            "image": "assets/menu/espresso_martini.jpg"
+        }
+    ],
+    "milkshakes": [
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "description": "Chunks of Oreo blended with homemade Cadburys chocolate sauce.",
+            "dietary": [],
+            "price": 13.90,
+            "image": "assets/menu/oreo_milkshake.jpg"
+        }
+    ]
+}

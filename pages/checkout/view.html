@@ -1,0 +1,38 @@
+<div id="checkout-container">
+    <h3>Checkout</h3>
+
+    <div id="checkout-textboxes">
+        <div class="checkout-input">
+            <p>Name</p>
+            <input type="text" id="name">
+        </div>
+
+        <div class="checkout-input">
+            <p>Phone Number</p>
+            <input type="tel" id="phone">
+        </div>
+
+        <div class="checkout-input">
+            <p>Email Address</p>
+            <input type="email" id="email">
+        </div>
+
+        <div id="checkout-delivery">
+            <div class="checkout-input">
+                <p>Delivery Address</p>
+                <input type="text" id="address">
+            </div>
+
+            <div class="checkout-input">
+                <p>Delivery Instructions</p>
+                <textarea id="instructions"></textarea>
+            </div>
+        </div>
+    </div>
+
+    <p id="checkout-error">No errors?</p>
+
+    <div id="checkout-buttons">
+        <a onclick="placeOrder(clearTrolley())">Place Order</a>
+    </div>
+</div>
